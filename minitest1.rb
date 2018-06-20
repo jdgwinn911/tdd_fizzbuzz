@@ -34,3 +34,5 @@ end
 def test_assert_fifty_second_position_is_minds
     assert_equal("minds", fizzbuzz()[51])
 end
+def test_assert_sixty_first_position_is_mined_minds
+    assert_equal("mined minds", fizzbuzz[60])
