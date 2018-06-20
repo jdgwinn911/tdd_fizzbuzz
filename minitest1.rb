@@ -32,5 +32,5 @@ def test_assert_thirty_third_position_is_mined
     assert_equal("mined", fizzbuzz()[32])
 end
 def test_assert_fifty_second_position_is_minds
-    assert_equal("minds" fizzbuzz()[51])
+    assert_equal("minds", fizzbuzz()[51])
 end
